@@ -1,0 +1,4 @@
+新建ROS工作空间，把它作为功能包
+先编译cv_bridge_4，他是支持opencv4的cv_bridge，不会和电脑中的另一版本cv_bridge冲突
+然后把Vocabulary解压
+编译odometer_self
